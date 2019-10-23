@@ -1,2 +1,2 @@
-# hakdayfest
+# hackdayfest
 open hack day
